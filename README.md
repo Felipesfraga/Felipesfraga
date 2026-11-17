@@ -1,6 +1,6 @@
 # Olá! Eu sou Felipe dos Santos Fraga 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com previsão de conclusão em **Jul/2028**.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com previsão de conclusão em **JUL/2028**.
 
 💻 Estou construindo minha trajetória em tecnologia por meio de projetos práticos, estudos e evolução contínua. Tenho interesse especial em **Inteligência Artificial**, **Cibersegurança** e **Cloud Computing**.
 
